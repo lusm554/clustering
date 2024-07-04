@@ -1,0 +1,1 @@
+jupyter lab --app-dir /opt/homebrew/share/jupyter/lab
